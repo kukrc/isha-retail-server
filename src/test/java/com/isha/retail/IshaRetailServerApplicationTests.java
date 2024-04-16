@@ -1,4 +1,4 @@
-package com.isha.retail.server;
+package com.isha.retail;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

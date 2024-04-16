@@ -1,4 +1,4 @@
-package com.isha.retail.server;
+package com.isha.retail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
